@@ -4,7 +4,7 @@ console.log("Scrpit By snow_ghost");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("673050216257159189")
+let channel =     client.channels.get("673792213033025546")
 setInterval(function() {
 channel.send(`هلا هلا هلا هلا هلا`);
 }, 30)
